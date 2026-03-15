@@ -1,4 +1,4 @@
-# quartic_reduction_data
+# Quartic reduction data
 
 This repository stores datasets produced by the script
 `random_quartic_reduction_experiments.py`
