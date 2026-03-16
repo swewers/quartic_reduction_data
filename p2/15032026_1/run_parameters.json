@@ -1,0 +1,16 @@
+{
+  "checkpoint_every": 25,
+  "coeff_bound": 10,
+  "kmax": 3,
+  "max_tries_factor": 50,
+  "n_samples": 500,
+  "n_terms": 8,
+  "out": "/home/stefan/code/data/p2/15032026_1",
+  "prime": 2,
+  "quiet": false,
+  "rho": 0.0,
+  "seed": 55496,
+  "store_all": false,
+  "timeout": 300.0,
+  "timestamp_utc": "2026-03-15T20:19:33.149327+00:00"
+}
